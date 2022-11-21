@@ -18,4 +18,8 @@ public class Cat {
         return predator.eatMeat();
     }
 
+    public int getKittens(int kittensCount) {
+        // типа какой-то недописанный код
+        return kittensCount;
+    }
 }
